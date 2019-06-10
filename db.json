@@ -78,5 +78,10 @@
             "title": "Group 4 — Long long title",
             "mnrIds": [7,8]
         }
-    ]  
+    ],
+	"main": [
+		{
+			"title": "Long long name for test 12345"
+		}
+	],
 }
