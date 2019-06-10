@@ -1,35 +1,34 @@
 {
-  "mnrs": [
-    {
-      "id": 1,
-      "title": "Mnr 1 — ",
-      "dfsa": "1500000",
-      "status": "Alive",
-      "log_mesage": "Closed connection — Remote host not found", 
-    },
-    {
-      "id": 2,
-      "title": "Mnr 2 — ",
-      "dfsa": "1600000",
-      "status": "Alive",
-      "log_mesage": "Test connection established", 
-    },
-    {
-      "id": 3,
-      "title": "Mnr 3 — ",
-      "dfsa": "1700000",
-      "status": "Alive",
-      "log_mesage": "Keep alive for a bit", 
-    },
-    {
-      "id": 4,
-      "title": "Mnr 4 — ",
-      "dfsa": "1200000",
-      "status": "Down",
-      "log_mesage": "Rebooting due to power issues", 
-    },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"mnrs": [{
+			"id": 1,
+			"title": "Mnr 1 — ",
+			"dfsa": "1500000",
+			"status": "Alive",
+			"log_mesage": "Closed connection — Remote host not found"
+		},
+		{
+			"id": 2,
+			"title": "Mnr 2 — ",
+			"dfsa": "1600000",
+			"status": "Alive",
+			"log_mesage": "Test connection established"
+		},
+		{
+			"id": 3,
+			"title": "Mnr 3 — ",
+			"dfsa": "1700000",
+			"status": "Alive",
+			"log_mesage": "Keep alive for a bit"
+		},
+		{
+			"id": 4,
+			"title": "Mnr 4 — ",
+			"dfsa": "1200000",
+			"status": "Down",
+			"log_mesage": "Rebooting due to power issues"
+		},
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
