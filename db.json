@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "mnrs": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Mnr 1 — "
+    },
+    {
+      "id": 2,
+      "title": "Mnr 2 — "
     }
   ],
   "profile": {
