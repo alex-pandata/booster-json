@@ -26,7 +26,7 @@
 			"dfsa": "1200000",
 			"status": "Down",
 			"log_mesage": "Rebooting due to power issues"
-		},
+		}
 	],
 	"profile": {
 		"name": "typicode"
