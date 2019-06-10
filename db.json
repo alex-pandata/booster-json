@@ -3,56 +3,56 @@
 			{
 				"id": 1,
 				"title": "Mnr 1 — Long long title",
-				"dfsa": 1500000,
+				"dfas": 1500000,
 				"status": "Alive",
 				"log_mesage": "Closed connection — Remote host not found"
 			},
 			{
 				"id": 2,
 				"title": "Mnr 2 — Long long title",
-				"dfsa": 1600000,
+				"dfas": 1600000,
 				"status": "Alive",
 				"log_mesage": "Test connection established"
 			},
 			{
 				"id": 3,
 				"title": "Mnr 3 — Long long title",
-				"dfsa": 1400000,
+				"dfas": 1400000,
 				"status": "Alive",
 				"log_mesage": "Closed connection — Remote host not found"
 			},
 			{
 				"id": 4,
 				"title": "Mnr 4 — Long long title",
-				"dfsa": 1600000,
+				"dfas": 1600000,
 				"status": "Alive",
 				"log_mesage": "Test connection established"
             },
 			{
 				"id": 5,
 				"title": "Mnr 5 — Long long title",
-				"dfsa": 1500000,
+				"dfas": 1500000,
 				"status": "Alive",
 				"log_mesage": "Closed connection — Remote host not found"
 			},
 			{
 				"id": 6,
 				"title": "Mnr 6 — Long long title",
-				"dfsa": 1600000,
+				"dfas": 1600000,
 				"status": "Alive",
 				"log_mesage": "Test connection established"
 			},
 			{
 				"id": 7,
 				"title": "Mnr 7 — Long long title",
-				"dfsa": 1400000,
+				"dfas": 1400000,
 				"status": "Alive",
 				"log_mesage": "Closed connection — Remote host not found"
 			},
 			{
 				"id": 8,
 				"title": "Mnr 8 — Long long title",
-				"dfsa": 1600000,
+				"dfas": 1600000,
 				"status": "Alive",
 				"log_mesage": "Test connection established"
             }
