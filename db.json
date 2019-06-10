@@ -1,19 +1,2 @@
-{
-	"mnrs": [
-		
-			{
-				"id": 1,
-				"title": "Mnr 1 — ",
-				"dfsa": "1500000",
-				"status": "Alive",
-				"log_mesage": "Closed connection — Remote host not found"
-			},
-			{
-				"id": 2,
-				"title": "Mnr 2 — ",
-				"dfsa": "1600000",
-				"status": "Alive",
-				"log_mesage": "Test connection established"
-			},
-	]
-}
+{"mnrs":[{
+}]}
